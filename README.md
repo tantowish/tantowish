@@ -33,9 +33,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
-<!--     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-    </a>  -->
+    </a> 
 </p>
 
 <h3 align="left">Frontend Development:</h3>
@@ -46,9 +46,9 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
     </a>
-<!--     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>  -->
+    </a> 
 </p>
 
 <h3 align="left">Backend Development:</h3>
@@ -56,12 +56,9 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a> 
-<!--     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-    </a>  -->
-<!--     <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+    <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-    </a> -->
+    </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
     </a>
@@ -70,6 +67,12 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
