@@ -33,9 +33,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+<!--     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-    </a> 
+    </a>  -->
 </p>
 
 <h3 align="left">Frontend Development:</h3>
@@ -54,7 +54,7 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left">
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+        <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> 
     </a> 
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
@@ -68,9 +68,12 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nest" width="40" height="40"/> 
     </a>
+<!--     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    </a> -->
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
     </a>
