@@ -71,12 +71,12 @@
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
         <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nest" width="40" height="40"/> 
     </a>
+    <a href="https://bun.sh/" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="40" height="40"/> 
+    </a>
 <!--     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
     </a> -->
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
@@ -86,12 +86,29 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a>
+    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+    </a>
 </p>
+
 
 <h3 align="left">Android:</h3>
 <p align="left">
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+    </a>
+</p>
+
+<h3 align="left">Cloud & Container:</h3>
+<p align="left">
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>
 </p>
 
