@@ -69,7 +69,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://miro.medium.com/v2/resize:fit:1000/1*vkXJnUo4J_uukLutxZ1vrA.png" alt="nest" width="40" height="40"/> 
+        <img src="https://www.vhv.rs/dpng/d/498-4989583_nestjs-logo-hd-png-download.png" alt="nest" width="40" height="40"/> 
     </a>
     <a href="https://bun.sh/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="40" height="40"/> 
