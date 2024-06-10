@@ -127,6 +127,6 @@
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tantowish?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tantowish&hide=blade,html" alt="tantowish" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tantowish&hide=blade,html,jupyter%20notebook" alt="tantowish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tantowish&" alt="tantowish" /></p>
