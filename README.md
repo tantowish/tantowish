@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PC Hardware**
 
-- 📫 How to reach me **www.linkedin.com/in/tantowi-shah-hanif-756398138/**
+- 📫 How to reach me **www.linkedin.com/in/tantowi-shah-hanif**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
