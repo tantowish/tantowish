@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *Backend Development and Ice Skating**
+- 🌱 I’m currently learning the whole **Backend Development and Ice Skating**
 
-- 💬 Ask me about **PC Hardware**
+- 💬 Ask me about **PC Hardware (Literally know anything just ask)**
 
 - 📫 How to reach me **www.linkedin.com/in/tantowi-shah-hanif**
 
