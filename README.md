@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning the whole **Backend Development and Ice Skating**
 
-- 💬 Ask me about **PC Hardware (Literally know anything just ask)**
+- 💬 Ask me about **PC Hardware (Literally know anything about PC component and spessification)**
 
 - 📫 How to reach me **www.linkedin.com/in/tantowi-shah-hanif**
 
