@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tantowi Shah</h1>
 <h3 align="center">A passionate software engineering student from Indonesia</h3>
-<h3 align="center">Active in work account https://github.com/tantowishah</h3>
+<h3 align="center">Previously working for Grab and ByteDance</h3>
 
 - 🌱 I’m currently learning the whole **Backend Development and Snowboarding**
 
